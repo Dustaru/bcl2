@@ -8,4 +8,4 @@ Uniprot FASTA sequences for
 	4. Virus and worm BCL-2 homologs
 	5. A little on mitochondrial-remodeling and endoplasmic reticulum-associated proteins
 
-Restarted literature collection on BCL2# bcl2
+Restarted literature collection on BCL2.
